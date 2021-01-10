@@ -11,8 +11,7 @@ Welcome to Freeman_notes's documentation!
    :maxdepth: 2
 
    hello
-
-
+   operate_system/index
 
 Indices and tables
 ==================
