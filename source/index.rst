@@ -12,10 +12,8 @@ Welcome to Freeman_notes's documentation!
 
    hello
    operate_system/index
+   learning_how_to_learn/index
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
