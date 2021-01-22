@@ -11,6 +11,7 @@ Welcome to Freeman_notes's documentation!
    :maxdepth: 2
 
    hello
+   2
    operate_system/index
    learning_how_to_learn/index
 
